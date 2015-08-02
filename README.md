@@ -1,6 +1,6 @@
 # FisherYatesShuffle
 
-### English
+## English
 
 Generic implementation of the Fisher-Yates shuffle algorithm on C#
 
@@ -16,7 +16,7 @@ int[] array = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 array.Shuffle();
 ```
 
-### Русский
+## Русский
 
 Универсальная реализация алгоритма тасования Фишера-Йетса на C#
 
